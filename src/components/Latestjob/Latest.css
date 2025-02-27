@@ -1,0 +1,58 @@
+.hardi{
+    background-image: url("https://www.achieversit.com/assets/images/back-6.jpg");
+    width: 600px;
+    height: 170px;
+    padding:10px;
+    border-radius: 5px;
+    margin-left: 30px;
+}
+
+.white{
+    color: white;
+}
+.black{
+    color: white;
+}
+.softi{
+    display: grid;
+  grid-template-columns: auto auto auto auto;
+  gap: 10px;
+  
+  padding: 10px;
+  
+  
+}
+.whole_thing{
+    margin: 20px;
+    padding: 20px;
+}
+.scrolled_content{
+    text-align: justify;
+    margin: 10px;
+    padding: 20px;
+}
+ 
+.outerr {
+    position: relative; /* Ensure this is relative for absolute positioning inside */
+    width: 100%;
+    max-width: 650px; /* Adjust as needed */
+    height: auto;
+    overflow: hidden;
+    border-radius: 0;
+}
+ 
+.inner_content {
+    position: sticky;
+    bottom: 0; /* Keeps it at the bottom of the image */
+    left: 0;
+    width: 100%; /* Ensures it covers the bottom part of the image */
+    color: white;
+    padding: 10px;
+    z-index: 10;
+    text-align: left;
+}
+ 
+ .vinu{
+    background-image: url('https://www.achieversit.com/assets/images/back-4.jpg');
+    
+ }

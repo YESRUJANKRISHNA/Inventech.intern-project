@@ -1,0 +1,53 @@
+
+     
+    .custom-left-btn, .custom-right-btn {
+      position: absolute;
+      top: 50%;
+      transform: translateY(-50%);
+      background-color: transparent;
+      border: none;
+      font-size: 30px;
+      z-index: 10;
+      cursor: pointer;
+      transition: background-color 0.3s ease;
+    }
+   
+    .custom-left-btn {
+      left: 10px;
+    }
+   
+    .custom-right-btn {
+      right: 10px;
+    }
+   
+    .custom-left-btn:hover, .custom-right-btn:hover {
+      background-color: rgba(0, 0, 0, 0.3);
+      border-radius: 50%;
+    }
+   
+    .custom-left-btn .carousel-control-prev-icon,
+    .custom-right-btn .carousel-control-next-icon {
+      font-size: 35px;
+      color: white;
+      transition: color 0.3s ease;
+    }
+   
+    .custom-left-btn:hover .carousel-control-prev-icon,
+    .custom-right-btn:hover .carousel-control-next-icon {
+      color: #ff5722;
+    }
+   
+    /* Optional: Use FontAwesome icons for left and right buttons */
+    .custom-left-btn::before {
+      content: '\f104'; /* Left arrow icon (FontAwesome) */
+      font-family: "Font Awesome 5 Free";
+      font-weight: 900;
+    }
+   
+    .custom-right-btn::before {
+      content: '\f105'; /* Right arrow icon (FontAwesome) */
+      font-family: "Font Awesome 5 Free";
+      font-weight: 900;
+    }
+   
+  

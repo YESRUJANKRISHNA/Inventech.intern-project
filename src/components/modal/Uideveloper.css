@@ -1,0 +1,70 @@
+.developer{
+    display: flex;
+    justify-content: space-evenly;
+}
+.Uidev{
+    
+}
+.shad{
+    text-shadow: 2px;
+    background-color: bisque;
+    width: 25%;
+    margin-top: px;
+    position: relative;
+    top:-50px;
+    height: 100px;
+    transition-property: width;
+    transition-duration: 1s;
+    transition-timing-function: ease;
+    transition-delay: 0s;
+    
+}
+.shad:hover{
+    background:linear-gradient(to right, #e389ff, #32ef3b);
+    
+    transform: scale(1.2);
+}
+.shado:hover{
+    background:linear-gradient(to right, #ffc889, #32ef3b);
+    transform: scale(1.2);
+}
+.shado{
+    text-shadow: 2px;
+    background-color: bisque;
+    width: 25%;
+    position: relative;
+    z-index: 2;
+    top:-50px;
+    height: 100px;
+    transition-property: width;
+    transition-duration: 1s;
+    transition-timing-function: ease;
+    transition-delay: 0s;
+}
+.shadoo{
+    text-shadow: 2px;
+    background-color: bisque;
+    width: 25%;
+    position: relative;
+    top:-50px;
+    height: 100px;
+    margin-right: 2px;
+    transition-property: width;
+    transition-duration: 1s;
+    transition-timing-function: ease;
+    transition-delay: 0s;
+    
+}
+.shadoo:hover{
+    background:linear-gradient(to right, #e389ff, #32ef3b);
+    transform: scale(1.2);
+}
+.classo{
+    text-align: center;
+    
+}
+.devs{
+    text-align: center;
+    display: flex;
+    justify-content: space-around;
+}

@@ -1,0 +1,34 @@
+.hoodi{
+    background-image: url("https://www.achieversit.com/assets/images/12490.jpg");
+    height: 300px;
+    text-align: center;
+    padding: 10px;
+}
+.Great{
+    display: flex;
+    justify-content: space-around;
+}
+.heading{
+   font-size: 150px; 
+}
+.name{
+    font-size: 50px;
+    color:blue;
+}
+#ey:hover{
+    background:linear-gradient(to right, #ff8989, #6b32ef);
+    transform: scale(1.1);
+}
+#mm:hover{
+    background:linear-gradient(to right, #ffc889, #32ef3b);
+    transform: scale(1.1);
+}
+#bb:hover{
+    background:linear-gradient(to right, #ff8989, #6b32ef);
+    transform: scale(1.1);
+}
+#vs:hover{
+    transform: scale(1.1);  
+}
+
+

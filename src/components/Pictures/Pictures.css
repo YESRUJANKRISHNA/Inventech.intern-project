@@ -1,0 +1,31 @@
+
+.bn {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr); /* Creates 5 equal-width columns */
+    gap: 20px; /* Space between images */
+    padding: 20px; /* Padding around the grid */
+}
+
+.ad {
+    display: flex;
+    justify-content: center; /* Center the images horizontally */
+    align-items: center; /* Center the images vertically */
+    
+}
+.ad img:hover{
+    transform: scale(1.1);
+
+}
+
+.ad img {
+    width: 50%; /* Make image fill its container */
+    height: auto; /* Maintain the aspect ratio */
+    object-fit: contain; /* Ensure the image fits within the container */
+}
+.fg{
+    color:"white";
+}
+.pars{
+    color:white;
+    opacity: 0.5;
+}

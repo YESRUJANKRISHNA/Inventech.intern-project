@@ -1,0 +1,23 @@
+.head{
+    display: flex;
+    background-color: rgb(68, 66, 66);
+}
+.list_items{
+    margin-left: auto;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    gap: 1rem;
+    flex-wrap: wrap;
+    list-style-type: none;
+    color: aliceblue;
+}
+.image{
+    height: 100px;
+    width: 200px;
+position: relative;
+left: 30px;
+top: 2px;
+bottom: 0px;
+
+}

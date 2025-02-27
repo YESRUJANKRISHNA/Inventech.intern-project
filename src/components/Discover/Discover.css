@@ -1,0 +1,73 @@
+.discovery{
+    display: grid;
+  grid-template-columns: auto auto auto auto auto auto;
+  margin: 10px;
+  justify-content: center;
+  row-gap: 50px;
+  column-gap: 50px;
+}
+.guru{
+  margin-top: 30px;
+  font-size: 50px;
+  color: chartreuse;
+}
+.guru1{
+  margin-top: 30px;
+  font-size: 50px;
+  color: rgb(255, 0, 0);
+}
+.guru3{
+  margin-top: 30px;
+  font-size: 50px;
+  color: rgb(0, 238, 255);
+}
+.guru4{
+  margin-top: 30px;
+  font-size: 50px;
+  color: rgb(255, 0, 119);
+}
+.guru5{
+  margin-top: 30px;
+  font-size: 50px;
+  color: rgb(255, 60, 0);
+}
+.dk2{
+  margin-top: 30px;
+  font-size: 50px;
+  color: rgb(255, 0, 64);
+}
+.dk5{
+  margin-top: 30px;
+  font-size: 50px;
+  color: rgb(0, 255, 55);
+}
+.dk8{
+  margin-top: 30px;
+  font-size: 50px;
+  color: rgb(157, 255, 0);
+}
+.govi8{
+  margin-top: 30px;
+  font-size: 50px;
+  color: rgb(255, 0, 0);
+}
+.govi6{
+  margin-top: 30px;
+  font-size: 30px;
+  color: rgb(51, 255, 0);
+}
+.govi3{
+  margin-top: 30px;
+  font-size: 50px;
+  color: blue;
+}
+.govinda{
+  margin-top: 30px;
+  font-size: 50px;
+  color: rgb(0, 204, 255);
+}
+.dis1:hover{
+transform: scale(1.3);
+
+}
+    

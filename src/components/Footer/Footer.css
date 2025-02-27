@@ -1,0 +1,43 @@
+.footer{
+background-color: black;
+height: 350px;
+}
+.par{
+    color: white;
+    
+}
+.bn{
+    opacity: 0.5;
+}
+.inven{
+    width: 300px;
+}
+
+
+.lk{
+    display: flex;
+    justify-content: space-evenly;
+    padding: 10px;
+
+}
+.fg{
+    width:20px;
+}
+.er{
+    margin-left: 20px;
+}
+.df{
+    color:white
+}
+.sc{
+    color:white;
+    
+}
+.hjk{
+    justify-content: center;
+    
+    margin-top: 30px;
+    display: flex;
+    gap: 30px;
+   
+}

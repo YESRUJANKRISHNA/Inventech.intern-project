@@ -1,0 +1,69 @@
+.rece{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    margin-inline-end: 10px;
+    margin-inline-start: 10px;
+    gap: 10px;
+    
+    
+
+}
+.akka{
+    background: linear-gradient(to right, #89fffd, #ef32d9);
+    height: 130px;
+    display: flex;
+  flex-direction: column;  /* Aligns the icon and h5 vertically */
+  gap: 15px;
+   
+}
+.dh1{
+    display: flex;
+    justify-content: center;
+    justify-content: space-between;
+
+}
+.sz2{
+    font-size: 50px;
+    border-radius: 50%;
+    background-color: blue;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.dhoni{
+    background: linear-gradient(to right, #89fffd, #32ef3b);
+    height: 130px;
+    display: flex;
+  flex-direction: column;  /* Aligns the icon and h5 vertically */
+  gap: 15px;
+  width: 500px;
+}
+.dh2{
+    font-size: 60px;
+    border-radius: 50%;
+    background-color: #32ef3b;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.hardik{
+    background: linear-gradient(to right, #a389ff, #32ef3b);
+    height: 130px;
+}
+.hr2{
+    font-size: 60px;
+    border-radius: 50%;
+    background-color: #ef323b;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.nithin{
+    background: linear-gradient(to right, #ffc889, #32ef3b);
+    height: 130px; 
+}
+.nithin2{
+    font-size: 60px;
+    border-radius: 50%;
+    background-color: #32aaef;
+    margin-top: 10px;
+    margin-left: 10px;
+}

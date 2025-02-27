@@ -1,0 +1,64 @@
+.card {
+    border: 1px solid #ddd;
+    padding: 20px;
+    width:200px;
+    height: 125px;
+    border-radius: 8px;
+    background-color: #fff;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    margin-right: 20px;
+
+  }
+  .card:hover{
+    box-shadow:coral
+  }
+  
+  .card-icon {
+    font-size: 40px;
+    color: #3498db; /* You can change the color */
+    text-align: center;
+  }
+  
+  .card-content {
+    text-align: center;
+    margin-bottom: 10px;
+
+  }
+  
+  .card-content h3 {
+    font-size: 18px;
+    margin: 10px 0;
+  }
+  
+  .card-content p {
+    font-size: 14px;
+    color: #555;
+  }
+  .display{
+    display:flex;
+  }
+  .sudeer{
+    background-color:aqua;
+    border-radius: 50%;
+  }
+  .shuld{
+    color: #ffff00;
+    
+   
+    size: 100pt;
+
+  }
+  .card:hover{
+    background:linear-gradient(to right, #ffc889, #32ef3b);
+    transform: scale(1.2);
+  }
+  #gg:hover{
+    background:linear-gradient(to right, #ff8989, #6b32ef);
+    transform: scale(1.2);
+  }
+  #gj:hover{
+    background:linear-gradient(to right, #ff8989, #6b32ef);
+    transform: scale(1.2);
+  }
+  

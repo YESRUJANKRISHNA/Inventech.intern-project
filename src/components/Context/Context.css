@@ -1,0 +1,28 @@
+.context{
+    background-image: url("https://www.achieversit.com/assets/images/edureka-business.png");
+    height: 250px;
+    width: 1250px;
+    margin-left:20px;
+    
+}
+.para{
+    color: white;
+    padding: 10px;
+    margin-left: 130px;
+    
+
+}
+.parav{
+    color: white;
+    background-color: blue;
+    width: 200px;
+    height: 50px;
+    margin-left: 100px;
+    padding: 10px;
+    margin-left: 130px;
+    margin-bottom: 50px;
+}
+.parav:hover{
+    background-color: red;
+
+}
